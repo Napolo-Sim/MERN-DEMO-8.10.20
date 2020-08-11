@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/MERN-DEMO-8.10.20/static/css/main.5f361e03.chunk.css",
+    "main.js": "/MERN-DEMO-8.10.20/static/js/main.1610e5b7.chunk.js",
+    "main.js.map": "/MERN-DEMO-8.10.20/static/js/main.1610e5b7.chunk.js.map",
+    "runtime-main.js": "/MERN-DEMO-8.10.20/static/js/runtime-main.19046824.js",
+    "runtime-main.js.map": "/MERN-DEMO-8.10.20/static/js/runtime-main.19046824.js.map",
+    "static/js/2.09f1b02a.chunk.js": "/MERN-DEMO-8.10.20/static/js/2.09f1b02a.chunk.js",
+    "static/js/2.09f1b02a.chunk.js.map": "/MERN-DEMO-8.10.20/static/js/2.09f1b02a.chunk.js.map",
+    "index.html": "/MERN-DEMO-8.10.20/index.html",
+    "precache-manifest.999ec8cb515f7522218a26991941b456.js": "/MERN-DEMO-8.10.20/precache-manifest.999ec8cb515f7522218a26991941b456.js",
+    "service-worker.js": "/MERN-DEMO-8.10.20/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/MERN-DEMO-8.10.20/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.09f1b02a.chunk.js.LICENSE.txt": "/MERN-DEMO-8.10.20/static/js/2.09f1b02a.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/MERN-DEMO-8.10.20/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19046824.js",
+    "static/js/2.09f1b02a.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.1610e5b7.chunk.js"
+  ]
+}
